@@ -1,6 +1,7 @@
+
 | 🔥 Streaks | 📊 Most Used Languages |
 |------------|-------------------------|
-| ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=WezeAnonymm&theme=dark&hide_border=true) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WezeAnonymm&layout=compact&theme=dark&hide_border=true) |
+| ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=WezeAnonymm&theme=dark&hide_border=true) | ![Most Used Languages](https://skillicons.dev/icons?i=css,git,mysql,sass,cs,javascript,html,css,react,vue&theme=dark) |
 
 ---
 
@@ -9,5 +10,5 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contributions
 ![Snake animation](https://github.com/WezeAnonymm/WezeAnonymm/blob/output/github-contribution-grid-snake-dark.svg)
