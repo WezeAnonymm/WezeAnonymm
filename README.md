@@ -1,6 +1,7 @@
-## 🔥 Streaks & Stats
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=WezeAnonymm&theme=dark&hide_border=true)  
-![Stats](https://github-readme-stats.vercel.app/api?username=WezeAnonymm&show_icons=true&theme=dark&hide_border=true)
+
+| 🔥 Streaks | 📊 Most Used Languages |
+|------------|-------------------------|
+| ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=WezeAnonymm&theme=dark&hide_border=true) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WezeAnonymm&layout=compact&theme=dark&hide_border=true) |
 
 ---
 
